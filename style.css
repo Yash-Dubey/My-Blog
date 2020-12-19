@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: cursive;
+    color: floralwhite;
+}
+
+h2 {
+    font-family: cursive;
+    color: floralwhite;
+}
+
+h3 {
+    color: floralwhite;
+}
+
+#profile {
+    border-width: 10px;
+    width: 100px;
+    border-radius: 40%;
+}
+
+#para {
+    font-size: 20px;
+    color: floralwhite;
+}
+
+#name {
+    font-family: cursive;
+    font-weight: 400;
+}
+
+#Welcome {
+    background-color: aqua;
+    background: linear-gradient(pink 20%, blue 100%);
+}
+
+h4 {
+    text-decoration-line: underline;
+    font-size: 20px;
+    color: floralwhite;
+}
+
+#Welcom {
+    background-color: aqua;
+    background: linear-gradient(pink 20%, purple 100%);
+}
+.article{
+    font-size: 40px;
+}
+h5{
+    font-size: 30px;
+    color:red;
+}
+#contact {
+    background: firebrick;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    color: white;
+    text-shadow: none;
+}
