@@ -1,0 +1,44 @@
+#contact {
+    background: firebrick;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    color: white;
+    text-shadow: none;
+}
+.contact_1{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    font-weight: 700
+}
+h3{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    font-weight: 700
+}
+h4{
+    font-size: 30px;
+    color: white;
+    background-color: darkcyan;
+    border-radius: 25;
+}
+h5{
+    font-size: 25px;
+    margin-left: 10px;
+}
+h6{
+    font-size: 20px;
+}
