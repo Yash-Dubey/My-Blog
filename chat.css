@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+}
+#imageTwitter{
+    width: 50px;
+    height:50px;
+    margin-top: 10px;
+}
+#output
+{
+	padding: 10px; 
+    width:80%;
+    background: rgba(255,255,255,0.8);
+    border-radius: 15px;
+}
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color: black;
+    font-size: 30px;
+}
+.input_div_message_page #msg
+{
+	width: 1000px;
+    height: 30px;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+    color: white;
+    border-style: none;
+    height: 30px;
+	width: 60px; 
+    background-color: red;
+    border-radius: 20px;
+    font-size: 20px;
+}

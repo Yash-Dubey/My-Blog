@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+}
+#Sec2{
+    background-color: white;
+    margin-left: 900px;
+    margin-right: 900px;
+    border-color:blue;
+    border-width: 1;
+    border-radius: 75px;
+}
+#Welcome{
+   
+    font-size: 30px;
+}
+#imageTwitter{
+    width: 50px;
+    height:50px;
+    margin-top: 10px;
+}
+h1{
+    color: white;
+}
+#Add{
+    background-color: greenyellow;
+    color: white;
+    border-style: none;
+    font-size: 20px;
+}
+#room_name{
+    width: 300px;
+    height: 20px;
+}
+#output
+{
+	padding: 10px; 
+    width:80%;
+    background: rgba(255,255,255,0.8);
+    border-radius: 15px;
+}
